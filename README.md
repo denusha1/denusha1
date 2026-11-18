@@ -24,7 +24,7 @@
 
 ---
 
-## `$ whoami`
+## `$ Who Am I ?..`
 
 ```python
 class Developer:
@@ -47,6 +47,16 @@ class Developer:
     def say_hello(self):
         return "Turning ideas into meaningful software."
 ```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/denusha1/denusha1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/denusha1/denusha1/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/denusha1/denusha1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 I'm a Software Engineering undergraduate passionate about building practical, scalable and user-focused software solutions.
 
